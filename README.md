@@ -5,7 +5,7 @@
 **A font with ligatures for an amazing programming and code review experience.**
 
 <br><br>
-Manually patched [Mononoki](https://github.com/madmalik/mononoki) font by ammwinchande, for a closer look of Mononoki font without ligature [Mononoki Website](https://madmalik.github.io/mononoki/)
+Manually patched [Mononoki](https://github.com/madmalik/mononoki) font, for a closer look of Mononoki font without ligature [Mononoki Website](https://madmalik.github.io/mononoki/)
 
 ## Installation
 
